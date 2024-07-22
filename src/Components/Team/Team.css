@@ -1,0 +1,57 @@
+.teamtop{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10vh;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.teammain{
+    color: white;
+    background-color: #0E0E0E;
+    margin-top: -68px;
+}
+
+.intteam{
+    line-height: 0.2;
+}
+
+#teamh4{
+    color: #7BE2C8;
+}
+
+.explorebtn{
+    height: 40px;
+    width: 120px;
+    background: linear-gradient(45deg,#D5EE71,#7BE2C8);
+    color: black;
+    border: 2px solid #0E0E0E;
+    border-radius: 10px;
+}
+
+#aboutp{
+    color: #7BE2C8;
+}
+
+.tbox{
+    background: linear-gradient(45deg,#D5EE71,#7BE2C8);
+    color: black;
+    color: black;
+    border: 2px solid #0E0E0E;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+}
+
+.teambot{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#teamh3a{
+    font-size: 40px;
+    margin-top: -10px;
+}
